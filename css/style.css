@@ -224,6 +224,10 @@ body {
     background: url(../images/background.jpg);
     color: #ccc;
     text-align: left;
+  
+  }
+  #contact a{
+    text-transform:lowercase;
   }
   #contact .section-title span{
     background-color: black;

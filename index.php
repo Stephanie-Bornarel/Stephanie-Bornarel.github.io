@@ -37,7 +37,7 @@
                         Après quelques années où j'ai travaillé en tant que chef cuistot, j'ai décidé de me diriger
                         vers un domaine pour lequel je me suis découvert une passion, la programmation. J'ai suivi une
                         formation de développer web et mobile chez O'Clock, ce qui m'a permis d'apprendre à utiliser
-                        différents languages.
+                        différents langages.
                     </p>
                 </div>
             </div>
@@ -56,7 +56,7 @@
 
                         </tr>
                         <tr>
-                            <th>Languages Web et CMS</th>
+                            <th>Langages Web et CMS</th>
                             <th>Note </th>
 
                         </tr>
@@ -166,7 +166,7 @@
                     <p>
                         <span class="fa fa-calendar" aria-hidden="true"> Du 15/07/2021 au 24/12/2021</span>
                     </p>
-                    <p>La formation se présente sous forme de 8 saisons reparties sur 4 mois pendant lesquelles j'ai put apprendre différents languages, ainsi que  manipuler Git et travailler en groupe (grâce au pair programming), le tout sous l'environnement de Linux . </p>
+                    <p>La formation se présente sous forme de 8 saisons reparties sur 4 mois pendant lesquelles j'ai put apprendre différents langages, ainsi que  manipuler Git et travailler en groupe (grâce au pair programming), le tout sous l'environnement de Linux . </p>
                     <p>Après ces quatre de mois de formation ,j'ai put suivre une spécialisation en Wordpress,ce qui m'as permis d'approfondir mes compétences autant en back que en Front.</p>
                     <p>Et pour finir ,nous avons eu un mois pour monter un projet en groupe  et le présenter sur <span class ="fa fa-youtube-play" aria-hidden="true"></span> <a href="https://youtu.be/z_X-bUQtqlo?t=1376"> you tube</a> .</p>
                     <p>Cette formation me permettra d’acquérir le Titre Professionnel de Développeur Web et Web Mobile, niveau 5 (bac+2) . L'examen est prévu pour le 04/02/21 ainsi que la   Certification Opquast</p>
