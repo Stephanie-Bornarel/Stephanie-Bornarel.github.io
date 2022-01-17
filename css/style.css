@@ -236,7 +236,7 @@ body {
   #contact .section-content {
     overflow: hidden;
     display: flex;
-    align-items: flex-start;
+    text-align:center;
   }
   
   /**
